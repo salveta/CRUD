@@ -1,0 +1,17 @@
+{
+  "success": {
+    "total": 1
+  },
+    "users": [
+      {
+        "name": "bob",
+        "id": "132",
+        "birthdate": "22/01/2019"
+      },
+      {
+        "name": "James",
+        "id": "133",
+        "birthdate": "22/01/2019"
+      }
+    ]
+}

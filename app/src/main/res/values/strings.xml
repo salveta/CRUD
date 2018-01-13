@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_conexion">Error de Conexión</string>
+    <string name="date_birthday_error">Sin fecha de cumpleaños</string>
+    <string name="name">Nombre</string>
+    <string name="date_birthday">Fecha de cumpleaños</string>
+    <string name="save_user">Guardar Usuario</string>
+    <string name="delete_user">Eliminar</string>
+    <string name="update_user">Actualizar</string>
+
+    //ERRORS
+    <string name="error_name">Debes introducir un nombre</string>
+    <string name="error_birthday">Debes introducir una fecha de cumpleaños</string>
+    <string name="error_create_user">Error al guardar el usuario</string>
+    <string name="common_error">Se ha producido un error, por favor intentelo de nuevo más tarde</string>
+
+</resources>

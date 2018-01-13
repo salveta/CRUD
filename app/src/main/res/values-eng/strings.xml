@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CRUD</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_conexion">Error conexion</string>
+    <string name="date_birthday_error">No birthdate</string>
+    <string name="name">Name</string>
+    <string name="date_birthday">Birthdate</string>
+    <string name="save_user">Save user</string>
+    <string name="delete_user">Delete</string>
+    <string name="update_user">Update</string>
+
+    //ERRORS
+    <string name="error_name">You must type a name</string>
+    <string name="error_birthday">You must type a birthdate</string>
+    <string name="error_create_user">Error to save the user</string>
+    <string name="common_error">We have an error, come back later</string>
+
+</resources>
